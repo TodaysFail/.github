@@ -1,4 +1,22 @@
 # 오늘의 실패
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://todaysfail.com">
+        <img src="https://user-images.githubusercontent.com/64088250/221521867-989b2295-9104-4a9d-9343-0d6f1196ab07.png" width="300px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      오늘의 실패를 영수증으로 남겨보세요
+    </td>
+  </tr>
+</table>
+
+### 🧾 소개
+
 바쁜 일상을 살아가다보면 어쩔 수 없이 성공과 효율에만 집중하게 됩니다.</br>
 
 그런 강박 때문에 작은 도전도 하기 힘들때가 있습니다.</br>
@@ -11,10 +29,9 @@
 
 ![image](https://user-images.githubusercontent.com/64088250/221423025-f5413792-73a0-4872-8e56-9877acd37991.png)
 
+### 🏠 스프린트 팀원
 
 
-
-### 🏠스프린트 팀원
 <table>
   <tr>
     <td align="center" colspan="3">프론트엔드</td>
@@ -68,18 +85,22 @@
 </table>
 
 ### 브랜치 컨벤션
+
 - **Feature Branch** 전략을 따라 main, develop, feature 브랜치를 갖는다.
 - develop 브랜치를 default branch로 설정하고 개발한다.
 - develop 브랜치에서 기능 단위의 feature 브랜치를 생성한다.
 
 ### 브랜치 네이밍
+
 - feature 브랜치 명은 `feature/이슈 번호`와 같이 작성한다.
 - ex) feature/1, feature/2 ...
 
 ### 커밋 컨벤션
+
 [#이슈번호] type: 커밋 메시지
 
 ### type
+
 ```
 #   [커밋 타입]  리스트
 #   feat      : 기능 (새로운 기능)
