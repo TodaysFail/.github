@@ -27,7 +27,7 @@
 
 영수증을 출력해 친구들과 공유해보세요.
 
-![image](https://user-images.githubusercontent.com/64088250/221423025-f5413792-73a0-4872-8e56-9877acd37991.png)
+![오늘의 실패 목업](https://user-images.githubusercontent.com/64088250/224700815-5df267de-3966-41f2-b5e3-69ba97b31626.png)
 
 ### 🏠 스프린트 팀원
 
